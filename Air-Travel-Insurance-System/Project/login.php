@@ -9,7 +9,7 @@ $lerrs1="";
 if (isset($_POST['loginp'])){
 	$a=$_POST["usernamel"];
 	$b=$_POST["passl"];
-	if(($a=="gibs777" && $b=="gibs777")||($a=="ayush777" && $b=="ayush777")||($a=="reshma777" && $b=="reshma777")||($a=="darrel777" && $b=="darrel777")){
+	if(($a=="ayush777" && $b=="ayush777")||($a=="reshma777" && $b=="reshma777")||($a=="darrel777" && $b=="darrel777")){
 		header('Location:admin.html');
 	}
 	else{

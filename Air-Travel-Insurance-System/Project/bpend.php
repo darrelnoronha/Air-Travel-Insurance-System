@@ -42,11 +42,16 @@ $claimno="";
 
 <div class="row">
   <div class="side">
-<h1 class="center shadow">ADMIN</h1>
+<h1 class="center shadow">ADMINS</h1>
 <hr>
-    <h2 class="center s">Gibson</h2>
-<img src="gibson.jpeg" alt="Avatar" class="avatar">
+    <h2 class="center s">Reshma</h2>
+<img src="reshma.png" alt="Avatar" class="avatar">
 <hr>
+<h2 class="center s">Ayush</h2>
+<img src="ayush1.jpeg" alt="Avatar" class="avatar">
+<hr>
+<h2 class="center s">Darrel</h2>
+<img src="darrel.jpeg" alt="Avatar" class="avatar">
 
   </div>
   <div class="main">
